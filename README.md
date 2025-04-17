@@ -32,4 +32,4 @@ A React-based frontend application for managing employee payroll data. Connects 
  ## 🚀 View Employee Information
 1. Run the program:
  ```bash
-npm start
+node server.js
